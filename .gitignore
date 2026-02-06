@@ -1,0 +1,39 @@
+############################
+# Eclipse (필수 ⭐)
+############################
+.metadata/
+.project
+.classpath
+.settings/
+.loadpath
+.recommenders/
+
+############################
+# Eclipse history / cache
+############################
+.history/
+.plugins/
+.snap
+*.log
+
+############################
+# Java / JSP / Tomcat
+############################
+bin/
+build/
+out/
+target/
+*.class
+
+############################
+# Tomcat
+############################
+Servers/
+work/
+temp/
+
+############################
+# OS
+############################
+.DS_Store
+Thumbs.db
